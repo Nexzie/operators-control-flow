@@ -3,6 +3,7 @@
 Arithmetic operators
 
 Addition: +
+
 Subtraction: -
 Multiplication: *
 Division: /
