@@ -16,6 +16,7 @@ Increment: ++
 
 Decrement: --
 
+
 Assignment Operators
 
 assign: =
@@ -49,6 +50,7 @@ less than: <
 
 less than and equals to: <=
 
+
 Logical Operators
 
 logical AND: &&
@@ -56,6 +58,7 @@ logical AND: &&
 logical OR: ||
 
 logical NOT: !
+
 
 Bitwise Operators
 
@@ -72,6 +75,7 @@ Bitwise left shift: <<
 Bitwise right shift: >>
 
 Bitwise right shift with zero: >>>
+
 
 2. Question 2
 
@@ -91,6 +95,7 @@ Increment: 2++ = 3; 7++ = 8
 
 Decrement: 4--; 5--
 
+
 Assignment Operators
 
 assign: let high = 9; let low = 7
@@ -104,6 +109,7 @@ multiply and assign: let twice _=2; let thrice _=3
 divide and assign: let new /= 4; let undo /=1
 
 modulus and assign: let divisive %=4; let first %=2
+
 
 Comparison Operators
 
@@ -123,6 +129,7 @@ less than: 9< 200 = true; 10 < 2 = false
 
 less than and equals to: 60 <= 8 = false; 7 <= 7 = true
 
+
 Logical Operators
 
 logical AND: (2==3 && 10 > 7) = false; (3==3 && 10 > 7) = true;
@@ -130,6 +137,7 @@ logical AND: (2==3 && 10 > 7) = false; (3==3 && 10 > 7) = true;
 logical OR: (2==3 || 10 > 7) = true; (2==3 || 10 < 7) = false;
 
 logical NOT: !(2 == 3) true; !(2 < 3) = true;
+
 
 Bitwise Operators
 
@@ -146,6 +154,7 @@ Bitwise left shift: (10<<2) = 40
 Bitwise right shift: (10>>2) = 2
 
 Bitwise right shift with zero: (10>>>2) = 2
+
 
 3. Question 4.
 
